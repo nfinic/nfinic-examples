@@ -19,6 +19,8 @@ Vous pouvez copier le code code se trouvant dans index.php:
 
 Le lien n'est valide que s'il est genere de cette facon.
 
+Vous pouvez telecharger votre modele a partir du dashboard la ou on ecrit `fichier de reponse`.
+
 ### Page de reception des donnees
 Apres traitement des donnees par nfinic(authentification de l'utilisateur) certaines donnees 
 dont votre systeme a besoin de enregistrer ou connecter l'utilisateur seront envoyees notamment 
